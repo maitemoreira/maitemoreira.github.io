@@ -10,4 +10,4 @@ aqui vou publicar meus trabalhos web
 
 (https://maitemoreira.github.io/site/)
 
-[clique aqui para acessar meu site (https://maitemoreira.github.io/site/)]
+[clique aqui para acessar meu site] (https://maitemoreira.github.io/site/)
